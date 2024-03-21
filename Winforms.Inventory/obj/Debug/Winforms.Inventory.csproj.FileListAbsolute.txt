@@ -1,0 +1,11 @@
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe.config
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.pdb
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.AssemblyReference.cache
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Form1.resources
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Form2.resources
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Properties.Resources.resources
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.GenerateResource.cache
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.exe
+C:\Users\GVARA\Desktop\Humber-Semest-2\Application-Dev-using-C#.NET-ITE-5230-IRA\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.pdb
